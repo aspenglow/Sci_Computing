@@ -10,7 +10,7 @@ add_library(pcsc
 #add_subdirectory(googletest)
 
 add_executable(main src/main.cc)
-find_package( OpenCV REQUIRED )
+find_package( OpenCV 3 REQUIRED )
 
 include_directories(${OpenCV_INCLUDE_DIRS})
 target_link_libraries(main ${OpenCV_LIBS})
