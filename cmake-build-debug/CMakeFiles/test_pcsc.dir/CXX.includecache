@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dawang/Desktop/pcsc-project-template/src/pcsc.hh
+iostream
+-
+opencv2/opencv.hpp
+-
+
+/home/dawang/Desktop/pcsc-project-template/test/test.cc
+cmath
+-
+gtest/gtest.h
+-
+../src/pcsc.hh
+/home/dawang/Desktop/pcsc-project-template/src/pcsc.hh
+

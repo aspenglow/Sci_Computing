@@ -1,0 +1,5 @@
+/home/dawang/Desktop/pcsc-project-template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dawang/Desktop/pcsc-project-template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dawang/Desktop/pcsc-project-template/cmake-build-debug/CMakeFiles/test_pcsc.dir
+/home/dawang/Desktop/pcsc-project-template/cmake-build-debug/CMakeFiles/main.dir
+/home/dawang/Desktop/pcsc-project-template/cmake-build-debug/CMakeFiles/pcsc.dir
