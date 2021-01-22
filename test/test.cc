@@ -37,7 +37,7 @@ TEST(Image2DTest2, Verify){
 };
 
 TEST(Image2DTest3, Verify){
-    ASSERT_TRUE(CheckStore("../image/mountain.jpg"));
+    ASSERT_TRUE(CheckStore("../image/earth.jpg"));
 };
 
 /// Test correctness of operator overloading of class complex.
