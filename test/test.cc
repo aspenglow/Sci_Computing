@@ -2,11 +2,6 @@
 #include <gtest/gtest.h>
 #include "../src/pcsc.hh"
 
-//float Image2DTest(std::string imgpath, int i, int j){
-//    Image2D img = Image2D(imgpath);
-//    img.GetPixel(i, j);
-//}
-
 
 /// Check if ppimage stored each img pixel correctly.
 bool CheckStore(std::string imgpath){
